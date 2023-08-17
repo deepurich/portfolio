@@ -13,9 +13,6 @@
 ---
 
 The official blog project is my personal portfolio website built with [Next.js](https://nextjs.org/), [Nextra](https://nextra.site/), [Mantine UI](https://mantine.dev/) and [Section theme](https://section-theme-blog-docs.vercel.app/).
-In my blog, I write articles about Linux, Ubuntu, Raspberry Pi 4, etc.
-
-You can also start your blog using the Section theme. I created a Section theme with Nextra and Mantine UI for the official blog project. So everybody could start their blog within less than 5 mint. 
 
 Nextra is a static site generated based on Next.js, and the good part is the vercel team maintains Nextra. 
 
