@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ratna.tech
+
+# Sitemaps
+Sitemap: https://ratna.tech/sitemap.xml
