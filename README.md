@@ -24,7 +24,7 @@ With a [Section theme](https://section-theme-blog-docs.vercel.app/), you can foc
 
 ## Getting Started with an official blog
 
-First, clone the `git clone https://github.com/ratnabollapalli/officialblog` project, and install the dependencies using one of the node package managers NPM, yarn, and pnpm.
+First, clone the `git clone https://github.com/ratnabollapalli/ratna.tech` project, and install the dependencies using one of the node package managers NPM, yarn, and pnpm.
 
 ```bash
 npm install
