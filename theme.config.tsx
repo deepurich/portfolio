@@ -68,7 +68,7 @@ const themeConfig: SectionBlogTheme = {
   social_links: [
     {
       name: "Github",
-      url: "https://github.com/ratnabollapalli/ratna.tech",
+      url: "https://github.com/deepurich/ratna.tech",
     },
     {
       name: "Linkedin",
