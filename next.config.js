@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
- const redirectUrl = require("./redirect.js")
+const redirectUrl = require("./redirect.js")
 
 const withNextra = require('nextra')({
   theme: "section-theme-blog",
@@ -11,8 +11,8 @@ const withNextra = require('nextra')({
 
 module.exports = withNextra({
   reactStrictMode: true,
-  async redirects() {
+  /*async redirects() {
     return redirectUrl
-  }
+  }*/
 })
 
