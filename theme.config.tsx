@@ -45,10 +45,6 @@ const themeConfig: SectionBlogTheme = {
       route: "/projects",
       name: "Projects",
     },
-    {
-      route: "/posts",
-      name: "Blog",
-    },
   ],
   secondary_navigation: [
     {
